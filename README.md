@@ -10,7 +10,7 @@
 
 <h3 align="center">Explore More</h3>
 
-As a software developer, I'm always on the lookout for new technologies and eager to expand my knowledge. I document my journey, insights, and experiences on my blog [m0s](https://mehmetabak.space). Also you can dive into my projects [page](https://projects.mehmetabak.space) to discover some of my proudest projects. 
+As a software developer, I'm always on the lookout for new technologies and eager to expand my knowledge. I document my journey, insights, and experiences on my blog [m0s](https://m0s.space). Also you can dive into my projects [page](https://projects.m0s.space) to discover some of my proudest projects. 
 
 <br />
 </p>
